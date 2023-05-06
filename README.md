@@ -5,7 +5,7 @@ import requests
 
 url = input('Enter URL : ')
 
-'https://timesofindia.indiatimes.com/rssfeedstopstories.cms'
+#'https://timesofindia.indiatimes.com/rssfeedstopstories.cms'
 
 r = requests.get(url)
 
